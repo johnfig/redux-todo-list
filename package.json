@@ -1,0 +1,19 @@
+{
+  "name": "redux-todo-list",
+  "version": "1.0.0",
+  "description": "A sample redux todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnfig/redux-todo-list.git"
+  },
+  "author": "John Figueiredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnfig/redux-todo-list/issues"
+  },
+  "homepage": "https://github.com/johnfig/redux-todo-list#readme"
+}
